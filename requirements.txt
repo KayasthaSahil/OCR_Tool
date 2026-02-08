@@ -1,0 +1,9 @@
+# Fast PDF processing
+pymupdf
+
+# The OCR Engine (CPU optimized ONNX version)
+rapidocr-onnxruntime
+
+# Image processing utilities required by RapidOCR
+opencv-python-headless
+numpy

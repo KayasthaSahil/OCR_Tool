@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.pdf
+*.txt
+!requirements.txt
+debug_output.txt
+test.pdf
+
+# OCR Cache
+.ocr_cache/
+*.pkl
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
